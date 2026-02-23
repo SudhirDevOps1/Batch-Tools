@@ -1,65 +1,71 @@
-# 🛡️ SAFE SORT + RENAME TOOL v7.0
+<p align="center">
 
-> **Windows Batch Script** jo aapki files ko automatically **sort**, **organize**, aur **rename** karta hai — safely, with full undo support.
+<!-- Animated Typing Effect -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=600&size=28&pause=1000&color=2E8BFF&center=true&vCenter=true&width=700&lines=SAFE+SORT+%2B+RENAME+TOOL+v7.0;Automatic+File+Organizer+for+Windows;Safe+%7C+Fast+%7C+Undo+Supported" />
 
-![Version](https://img.shields.io/badge/Version-7.0-blue)
-![Platform](https://img.shields.io/badge/Platform-Windows-0078D6)
-![Language](https://img.shields.io/badge/Language-Batch-green)
-![License](https://img.shields.io/badge/License-MIT-yellow)
+</p>
+
+<p align="center">
+  <b>Professional Windows Batch Script</b><br>
+  Automatically <b>Sort</b>, <b>Organize</b>, and <b>Rename</b> files safely — with full Undo support.
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Version-7.0-2E8BFF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/Language-Batch-4CAF50?style=for-the-badge" />
+<img src="https://img.shields.io/badge/License-MIT-FFC107?style=for-the-badge" />
+
+</p>
 
 ---
 
 ## 📋 Table of Contents
 
-- [Features](#-features)
-- [Installation](#-installation)
-- [Usage](#-usage)
-- [Folder Structure](#-folder-structure-after-sort)
-- [Supported Extensions](#-supported-extensions)
-- [Code Sub-Folders](#-code-sub-folders--26-languages)
-- [How It Works](#-how-it-works)
-- [Undo System](#-undo-system)
-- [Screenshots](#-screenshots)
-- [FAQ](#-faq)
-- [Changelog](#-changelog)
-- [License](#-license)
+- [✨ Features](#-features)
+- [📥 Installation](#-installation)
+- [🚀 Usage](#-usage)
+- [📁 Folder Structure](#-folder-structure-after-sort)
+- [📎 Supported Extensions](#-supported-extensions)
+- [💻 Code Sub-Folders](#-code-sub-folders--26-languages)
+- [⚙️ How It Works](#-how-it-works)
+- [↩️ Undo System](#-undo-system)
+- [🖥️ Screenshots](#-screenshots)
+- [❓ FAQ](#-faq)
+- [📝 Changelog](#-changelog)
+- [📄 License](#-license)
 
 ---
 
-## ✨ Features
+# ✨ Features
 
 | Feature | Description |
 |---------|-------------|
-| 🔄 **Sort + Rename** | Full auto — folders banao, move karo, rename karo |
-| 📂 **Sort Only** | Sirf folders mein organize karo, naam same rahe |
-| 🏷️ **Rename Only** | Sirf naam badlo, jagah same rahe |
-| ↩️ **Full Undo** | Ek click mein sab wapas |
-| 🧹 **Cleanup** | Crash ke baad stuck temp files fix karo |
-| 📋 **Undo Logs** | Har action ka detailed log file |
-| 🛡️ **Safe Rename** | 2-step rename — kabhi data loss nahi |
-| 💻 **26 Code Languages** | Code files language-wise sub-folders mein |
-| ⚡ **Zero Dependencies** | Sirf Windows chahiye, kuch install nahi karna |
-| 🔒 **Self-Aware** | Script khud ko kabhi rename/move nahi karega |
+| 🔄 **Sort + Rename** | Full auto — folders create, move, rename |
+| 📂 **Sort Only** | Organize without renaming |
+| 🏷️ **Rename Only** | Rename without moving |
+| ↩️ **Full Undo** | One-click restore |
+| 🧹 **Cleanup Mode** | Fix stuck `_safe_` temp files |
+| 📋 **Undo Logs** | Detailed operation logs |
+| 🛡️ **Safe 2-Step Rename** | Zero overwrite risk |
+| 💻 **26 Code Languages** | Language-wise sub-folder organization |
+| ⚡ **Zero Dependencies** | No installation required |
+| 🔒 **Self-Protected** | Script never renames itself |
 
 ---
 
-# 🛡️ Safe Sort + Rename Tool v7.0
+# 📥 Installation  
 
-A simple Windows batch tool to safely organize and rename files automatically.
-
----
-
-## 📥 Installation  
-
-### 🔹 Method 1: Direct Download  
+## 🔹 Method 1 — Direct Download  
 
 1. Download `sort_rename.bat`  
-2. Apni files wale folder mein paste karo  
-3. Double-click karke run karo  
+2. Paste inside your target folder  
+3. Double-click to run  
 
 ---
 
-### 🔹 Method 2: Git Clone  
+## 🔹 Method 2 — Git Clone  
 
 ```bash
 git clone https://github.com/yourusername/safe-sort-rename.git
@@ -68,12 +74,12 @@ cd safe-sort-rename
 
 ---
 
-## ⚙️ Requirements  
+# ⚙️ Requirements  
 
 - Windows 7 / 8 / 10 / 11  
 - No admin rights required  
 - No external dependencies  
-- No installation needed  
+- Fully portable  
 
 ---
 
